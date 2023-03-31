@@ -12,7 +12,7 @@
     "Guanfengyi": "guanfengyi.gc@bytedance.com"
   },
   "source": {
-    "git": "https://github.com/Guanfengyi/GGTools.git",
+    "git": "git@github.com:guanguandawang/GGTools.git",
     "tag": "0.1.0"
   },
   "platforms": {
