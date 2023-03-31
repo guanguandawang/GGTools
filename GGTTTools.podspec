@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'GGTools'
+  s.name             = 'GGTTTools'
   s.version          = '0.1.2'
   s.summary          = 'A short description of GGTools.'
 
