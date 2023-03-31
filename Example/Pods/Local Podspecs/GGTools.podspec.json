@@ -1,0 +1,22 @@
+{
+  "name": "GGTools",
+  "version": "0.1.0",
+  "summary": "A short description of GGTools.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Guanfengyi/GGTools",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Guanfengyi": "guanfengyi.gc@bytedance.com"
+  },
+  "source": {
+    "git": "https://github.com/Guanfengyi/GGTools.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "GGTools/Classes/**/*"
+}

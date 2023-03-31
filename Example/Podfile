@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'GGTools_Example' do
+  pod 'GGTools', :path => '../'
+
+  target 'GGTools_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

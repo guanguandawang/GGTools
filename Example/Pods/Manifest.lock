@@ -1,0 +1,16 @@
+PODS:
+  - GGTools (0.1.0)
+
+DEPENDENCIES:
+  - GGTools (from `../`)
+
+EXTERNAL SOURCES:
+  GGTools:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GGTools: 16a1aeafda2a44c59d803c7b15b43434a5cb0878
+
+PODFILE CHECKSUM: 8ca3f0c33714828cc5a56a53e97f54038d3601e1
+
+COCOAPODS: 1.12.0

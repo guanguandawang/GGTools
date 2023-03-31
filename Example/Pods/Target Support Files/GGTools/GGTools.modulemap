@@ -1,0 +1,6 @@
+framework module GGTools {
+  umbrella header "GGTools-umbrella.h"
+
+  export *
+  module * { export * }
+}
